@@ -1,0 +1,22 @@
+{
+  "created_at": 1611908172.1569998,
+  "description": "MediaO",
+  "grid_template": "{\"name\":\"custom\",\"template\":\"\\\"main sidebar\\\" 2fr\\n\\\"footer sidebar\\\" 1fr / 2fr 1fr\",\"paddings\":{\"overall\":\"0\"}}",
+  "id": "61555c7b75850a0009a396e7",
+  "items": [
+    {
+      "description": "Media",
+      "grid_area": "main",
+      "ref_ids": [
+        "5f975e77e0b83e535eca7f39"
+      ],
+      "thumb_url": "https://qa-cdn.telemetrytv.com/uploads/5ebb3691e0b83e6cd0b63fbb/97792f9e6d2639aab04d7ced3e55bf1e.thumb.png",
+      "type": "media",
+      "url": "muted=true&keep_looping=false&tap_interaction=true&items%5B0%5D=https%3A%2F%2Fqa-cdn.telemetrytv.com%2Fuploads%2F5ebb3691e0b83e6cd0b63fbb%2F97792f9e6d2639aab04d7ced3e55bf1e.mp4"
+    }
+  ],
+  "playback_count": 4711,
+  "playlist_id": "6013c448e0b83e6d83c185e6",
+  "priority": 1,
+  "updated_at": 1650347094.023
+}
