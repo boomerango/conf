@@ -1,0 +1,22 @@
+{
+  "campaign_id": "5f07483dd4e9e16347e878f5",
+  "created_at": 1590015082.243,
+  "description": "Rss",
+  "duration": 4,
+  "grid_template": "{\"name\":\"default\",\"template\":\"\\\"main\\\" auto / auto\"}",
+  "id": "5ec5b46ae0b83e4cfe2fd07e",
+  "items": [
+    {
+      "description": "Al Jazeera Feed",
+      "grid_area": "main",
+      "ref_id": "5ec5ae3ce0b83e6ac9ab7ed5",
+      "thumb_url": "https://resources.telemetrytv.com/apps/al-jazeera-feed.png",
+      "type": "al-jazeera-feed",
+      "url": "transitionInterval%3D10%26playOnlyOne%3Dfalse%26zoomEffect%3Dtrue%26appType%3Dal-jazeera-feed%26sourcefeed%3Dhttp%25253A%25252F%25252Fwww.aljazeera.com%25252Fxml%25252Frss%25252Fall.xml"
+    }
+  ],
+  "playback_count": 564678,
+  "playlist_id": "5ec5b46ae0b83e4cfe2fd07c",
+  "priority": 3,
+  "updated_at": 1649668315.7580001
+}

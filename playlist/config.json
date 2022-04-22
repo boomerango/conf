@@ -1,0 +1,11 @@
+{
+  "aspect_ratio": [
+    16,
+    9
+  ],
+  "clean": true,
+  "interactions_pause_playlist": true,
+  "name": "Device Testing",
+  "swipe": true,
+  "timeout": 60
+}

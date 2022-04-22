@@ -1,0 +1,24 @@
+{
+  "background": "bgType=color\u0026bgColor=%23323546\u0026gradientOverlay=false\u0026whiteText=true",
+  "campaign_id": "5f07483dd4e9e16347e878f5",
+  "created_at": 1590015082.243,
+  "description": "Countdown",
+  "duration": 4,
+  "grid_template": "{\"name\":\"default\",\"template\":\"\\\"main\\\" auto / auto\"}",
+  "id": "5ec5b46ae0b83e4cfe2fd07d",
+  "items": [
+    {
+      "description": "Countdown",
+      "grid_area": "main",
+      "location": "isUseIcal%3Dtrue%26iCalList%255B0%255D%255Burl%255D%3Dhttps%253A%252F%252Fwww.officeholidays.com%252Fics%252Fcanada%26iCalList%255B0%255D%255Bdescription%255D%3D%26iCalList%255B0%255D%255Blabel%255D%3DNew%2520Calendar%2520Countdown%26iCalList%255B0%255D%255Bsound%255D%3Ddefault%26stopAtZero%3Dtrue%26font%3D%26hideBox%3Dfalse%26bgType%3Dstocks%26whiteText%3Dtrue%26darkOverlay%3Dtrue%26zoomEffect%3Dfalse%26stockMedia%3Dhttps%253A%252F%252Fresources.telemetrytv.com%252Fbackgrounds%252Fphotos%252Fdefaults%252Fconcrete.jpg",
+      "ref_id": "5ec5add8e0b83e6ac9ab7ed4",
+      "thumb_url": "https://resources.telemetrytv.com/apps/countdown.png",
+      "type": "countdown",
+      "url": "isUseIcal%3Dtrue%26iCalList%255B0%255D%255Burl%255D%3Dhttps%253A%252F%252Fwww.officeholidays.com%252Fics%252Fcanada%26iCalList%255B0%255D%255Bdescription%255D%3D%26iCalList%255B0%255D%255Blabel%255D%3DNew%2520Calendar%2520Countdown%26iCalList%255B0%255D%255Bsound%255D%3Ddefault%26stopAtZero%3Dtrue%26font%3D%26hideBox%3Dfalse%26bgType%3Dstocks%26whiteText%3Dtrue%26darkOverlay%3Dtrue%26zoomEffect%3Dfalse%26stockMedia%3Dhttps%253A%252F%252Fresources.telemetrytv.com%252Fbackgrounds%252Fphotos%252Fdefaults%252Fconcrete.jpg"
+    }
+  ],
+  "playback_count": 619109,
+  "playlist_id": "5ec5b46ae0b83e4cfe2fd07c",
+  "priority": 1,
+  "updated_at": 1649668457.866
+}
