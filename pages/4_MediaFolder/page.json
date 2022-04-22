@@ -1,0 +1,31 @@
+{
+  "created_at": 1611908608.656,
+  "description": "TestLogs",
+  "duration": 20,
+  "grid_template": "{\"name\":\"splitHorz2\",\"template\":\"\\\"main right\\\" auto / 1fr 1fr\",\"paddings\":{\"overall\":\"0\"}}",
+  "id": "61555c7b75850a0009a396df",
+  "items": [
+    {
+      "description": "Media Folder",
+      "grid_area": "main",
+      "ref_id": "5f7f07f3e0b83e7dff797e03",
+      "thumb_url": "https://qa-app.telemetrytv.com/static/img/content/media-folder.png",
+      "type": "media_folder",
+      "url": "animated_zoom_effect=false&muted=true&image_fit=&image_position=&image_repeat=&interval=4&transition=&keep_looping=false&tap_interaction=false&folder_id=5f7f07f3e0b83e7dff797e03&match_device_tag=true&sub_folders=true&interactive_mode=false"
+    },
+    {
+      "description": "Media",
+      "grid_area": "right",
+      "ref_ids": [
+        "61042df2e0b83eb51536b96b"
+      ],
+      "thumb_url": "https://qa-cdn-us.telemetrytv.com/uploads/5ebb3691e0b83e6cd0b63fbb/17dda9577c7b6ec5955d976cb1f93efd.thumb.png",
+      "type": "media",
+      "url": "muted=false&keep_looping=false&tap_interaction=false&items%5B0%5D=https%3A%2F%2Fqa-cdn-us.telemetrytv.com%2Fuploads%2F5ebb3691e0b83e6cd0b63fbb%2F17dda9577c7b6ec5955d976cb1f93efd.mp4"
+    }
+  ],
+  "playback_count": 4525,
+  "playlist_id": "6013c448e0b83e6d83c185e6",
+  "priority": 4,
+  "updated_at": 1649691342.5830002
+}
