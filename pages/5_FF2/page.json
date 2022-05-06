@@ -1,0 +1,20 @@
+{
+  "created_at": 1632236963.436,
+  "description": "nice pict",
+  "grid_template": "{\"name\":\"default\",\"template\":\"\\\"main\\\" auto / auto\",\"paddings\":{\"overall\":\"16.6666666vmin\"}}",
+  "id": "61555c7b75850a0009a396e5",
+  "items": [
+    {
+      "description": "Media Folder",
+      "grid_area": "main",
+      "ref_id": "6149f5c6e0b83e5bd1bbd03a",
+      "thumb_url": "https://qa-app.telemetrytv.com/static/img/content/media-folder.png",
+      "type": "media_folder",
+      "url": "animated_zoom_effect=false&muted=true&image_fit=&image_position=&image_repeat=&interval=5&transition=&keep_looping=false&tap_interaction=false&folder_id=6149f5c6e0b83e5bd1bbd03a"
+    }
+  ],
+  "playback_count": 618,
+  "playlist_id": "6013c448e0b83e6d83c185e6",
+  "priority": 7,
+  "updated_at": 1649691346.524
+}
