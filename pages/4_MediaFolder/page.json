@@ -3,6 +3,7 @@
   "description": "TestLogs",
   "duration": 20,
   "grid_template": "{\"name\":\"splitHorz2\",\"template\":\"\\\"main right\\\" auto / 1fr 1fr\",\"paddings\":{\"overall\":\"0\"}}",
+  "id": "61555c7b75850a0009a396df",
   "items": [
     {
       "description": "Media Folder",
@@ -24,6 +25,7 @@
     }
   ],
   "playback_count": 4525,
+  "playlist_id": "6013c448e0b83e6d83c185e6",
   "priority": 4,
   "updated_at": 1649691342.5830002
 }
