@@ -2,7 +2,6 @@
   "created_at": 1632236963.436,
   "description": "nice pict",
   "grid_template": "{\"name\":\"default\",\"template\":\"\\\"main\\\" auto / auto\",\"paddings\":{\"overall\":\"16.6666666vmin\"}}",
-  "id": "61555c7b75850a0009a396e5",
   "items": [
     {
       "description": "Media Folder",
@@ -14,7 +13,6 @@
     }
   ],
   "playback_count": 618,
-  "playlist_id": "6013c448e0b83e6d83c185e6",
   "priority": 7,
   "updated_at": 1649691346.524
 }
